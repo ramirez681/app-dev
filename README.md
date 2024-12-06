@@ -1,4 +1,4 @@
 # app-dev
 My first repository.
 
-Nasi Padang
+Nasi Padang, Ingredient:Meat, Vegetables, Spices
